@@ -43,6 +43,4 @@ Codetech IT Solutions (Web Development Intern)
  
 Net Ninja Solution (Software Development Intern)
  
-ritesh8073/ritesh8073 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ritesh8073
